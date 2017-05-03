@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseurl = "http://172.27.59.208:1313/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Your Site Name"
+newContentEditor = "nano"
+theme = "hugo-artists-theme"
+pygmentsStyle = "native"
